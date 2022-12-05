@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Brussels
           plugin_achievements: true
-          plugin_activity: true
+          plugin_activity: false
           plugin_activity_visibility: public
           plugin_followup: true
           plugin_followup_sections: repositories, user
@@ -25,12 +25,10 @@ jobs:
           plugin_habits: true
           plugin_introduction: true
           plugin_isocalendar: true
-          plugin_languages: true
-          plugin_languages_threshold: 1
-          plugin_languages_other: true
+          plugin_languages: false
           plugin_notable: true
-          plugin_stars: true
-          plugin_topics: true
+          plugin_stars: false
+          plugin_topics: false
           plugin_topics_mode: icons
           plugin_topics_sort: activity
           plugin_wakatime: true
