@@ -21,7 +21,7 @@ jobs:
           plugin_activity_visibility: public
           plugin_followup: true
           plugin_followup_sections: repositories, user
-          plugin_gists: true
+          plugin_gists: false
           plugin_habits: true
           plugin_introduction: true
           plugin_isocalendar: true
