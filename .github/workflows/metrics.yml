@@ -32,6 +32,7 @@ jobs:
           plugin_introduction: true
           plugin_isocalendar: true
           plugin_languages: true
+          plugin_languages_ignored: "Jupyter Notebook"
           plugin_notable: true
           plugin_stars: false
           plugin_topics: false
