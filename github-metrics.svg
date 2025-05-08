@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1967" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1324" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -32,14 +32,14 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 33 repositories
+                            Contributed to 32 repositories
                         </div>
                     </section>
                 </div>
@@ -108,7 +108,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            111 issue comments
+                            112 issue comments
                         </div>
                     </section>
                     <section>
@@ -333,7 +333,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 28 commits)</small>
+                    <small class="h-details">(computed from last 32 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -381,7 +381,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.72
+                            Average per day at ~2.70
                         </div>
                     </section>
                 </div>
@@ -1379,6 +1379,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1399,19 +1404,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">JetBrains-Research/TestSpark</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">vsantele/feat/context-ranking-pipeline</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3023a9e</div>
-                                        <div class="message">Ignore `/data/` directory in .gitignore</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7dff37</div>
-                                        <div class="message">Update Gradle Wrapper to version 8.9</div>
+                                        <div class="sha">#1a816ce</div>
+                                        <div class="message">add more logs</div>
                                     </div>
                                 </div>
                             </section>
@@ -1430,8 +1431,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">vsantele/feat/context-ranking-pipeline</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e2143b4</div>
-                                        <div class="message">Update headless task with latest change</div>
+                                        <div class="sha">#c43b1e6</div>
+                                        <div class="message">comment recommanded()</div>
                                     </div>
                                 </div>
                             </section>
@@ -1443,29 +1444,49 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">JetBrains-Research/TestSpark</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">vsantele/feat/context-ranking-pipeline</span></div>
                                     <div class="commit">
-                                        <div class="sha">#394d231</div>
-                                        <div class="message">Revert</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bc12c1</div>
-                                        <div class="message">update with the latest headless version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ade15a</div>
-                                        <div class="message">improve logs for evaluation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df7d93a</div>
-                                        <div class="message">Prevent a method node without a class node attached.
+                                        <div class="sha">#51f4355</div>
+                                        <div class="message">Log stack trace on headless mode exception
 
-This can happen when exploreMethod is called from exploreStatement for a call relationship</div>
+Added functionality to log the stack trace when an exception occurs in headless mode. This improves debugging and provides better insight into issues during the application lifecycle.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#493 [Headless mode] Revive headless mode</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Hello-zoka in <span class="repo">JetBrains-Research/TestSpark</span></div>
+                                    <div class="comment">
+                                        It seems that some processes are not closed when the headless mode is exited.
+When I try to run the tga-pipeline with this branch, the first execution seems to work (I got the message
+                                        <code>[TestSpark Starter] Test generation failed</code>
+                                        but it runs). And from the second execution, the gradle task failed with the following error:
+                                        <code class="language-multiline" xml:space="preserve">FAILURE: Build failed with an exception.
+
+<span class="token trimmed">(9 more lines were trimmed)</span></code>
+                                        Every time I get an error like
+                                        <code>Could not move inconsistent immutable workspace</code>
+                                        , it's because a process is still running and using a file inside the location. I don't know which one yet. 
+Maybe it's related to
+                                        <code>[TestSpark Starter] Test generation failed</code>
+                                        in the first run, I can't see the stacktrace right now.
+If you don't think this issue is related to this PR, feel free to ignore it. I'll keep investigating on my own.
                                     </div>
                                 </div>
                             </section>
@@ -1477,223 +1498,27 @@ This can happen when exploreMethod is called from exploreStatement for a call re
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 123 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">JetBrains-Research/TestSpark</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">vsantele/feat/context-ranking-pipeline</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8d000b0</div>
-                                        <div class="message">add project to JavaPsiExplorer</div>
+                                        <div class="sha">#e166c4b</div>
+                                        <div class="message">[dev] add stacktrace option to gradle command</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#23d63a6</div>
-                                        <div class="message">add missing imports</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e81d85f</div>
-                                        <div class="message">add exploreType</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7257555</div>
-                                        <div class="message">replace experimental parameter field from PsiMethod by parameterList</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#948740f</div>
-                                        <div class="message">remove experimental methods to find the PsiMethod from PsiClass</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efc9550</div>
-                                        <div class="message">reduce the depth when explore a class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7595709</div>
-                                        <div class="message">explore methods before checking depth</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ef0f49</div>
-                                        <div class="message">add standard library detection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#588a035</div>
-                                        <div class="message">add subclass search if it's interface or abstract class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#032385a</div>
-                                        <div class="message">allow HAS_TYPE_PARAMETER from Class to Class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0fc2b3f</div>
-                                        <div class="message">Add isStandardLibrary field for nodes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#786a173</div>
-                                        <div class="message">First attempt to generate graphs for java methods</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06bf9f2</div>
-                                        <div class="message">Add createGraph method to PsiHelpers for graph generation
+                                        <div class="sha">#0567a02</div>
+                                        <div class="message">Refactor logging in JavaPsiExplorer to use ProjectUnderTestFileCreator.
 
-Introduced the `createGraph` method in Java and Kotlin PsiHelpers to support graph generation. The method leverages the `Graph` object and integrates additional parameters to provide extensibility for future features. A placeholder implementation is added for Kotlin.</div>
+Replaced direct log calls with ProjectUnderTestFileCreator's logging method for consistency and centralized logging management. Updated imports to include ProjectUnderTestFileCreator.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#db0afcd</div>
-                                        <div class="message">Add JavaPsiExplorer to create a graph structure of UUT dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14494c6</div>
-                                        <div class="message">Add Graph interface and KuzuGraph implementation for managing graph structures
+                                        <div class="sha">#d756798</div>
+                                        <div class="message">Update .gitignore to stop excluding 'data/' directory
 
-Introduced a Graph interface and implemented KuzuGraph using KuzuDB for handling nodes and edges. The implementation supports creating graph nodes and relationships with predefined types and enables storage in an in-memory or file-based database.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f1ac45</div>
-                                        <div class="message">Add Kuzu library dependency to build script
-
-Integrated the Kuzu library (version 0.8.2) into the project for graph database functionality.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2ca277</div>
-                                        <div class="message">[UI, #230] Implement undo delete test case functionality (#484)
-
-* Implement undo delete test case functionality
-
-* Fix ktlint issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#333fb02</div>
-                                        <div class="message">Adjustments for README to reflect recent changes (#478)
-
-- TestSpark now has three test-gen strategies
-- It is maintained by STR team
-- Add license hint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6b782f</div>
-                                        <div class="message">Enhance subclass handling by supporting KtLightClass (#488)
-
-Extend subclass processing logic to include `KtLightClass` alongside `KtUltraLightClass`. This ensures broader compatibility with Kotlin PSI classes during class inheritor searches.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c8a83a</div>
-                                        <div class="message">Filter out anonymous classes in subclass search (#491)
-
-Previously, the code included anonymous classes in the subclass search results. This change introduces a filter to exclude `PsiAnonymousClass` instances, ensuring only named classes are wrapped and returned. This improves the accuracy and relevance of the `searchSubclasses` method.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 99 commits in
-                                        <span class="repo">JetBrains-Research/TestSpark</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">vsantele/feat/context-ranking</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8d000b0</div>
-                                        <div class="message">add project to JavaPsiExplorer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23d63a6</div>
-                                        <div class="message">add missing imports</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e81d85f</div>
-                                        <div class="message">add exploreType</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7257555</div>
-                                        <div class="message">replace experimental parameter field from PsiMethod by parameterList</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#948740f</div>
-                                        <div class="message">remove experimental methods to find the PsiMethod from PsiClass</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efc9550</div>
-                                        <div class="message">reduce the depth when explore a class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7595709</div>
-                                        <div class="message">explore methods before checking depth</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ef0f49</div>
-                                        <div class="message">add standard library detection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#588a035</div>
-                                        <div class="message">add subclass search if it's interface or abstract class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#032385a</div>
-                                        <div class="message">allow HAS_TYPE_PARAMETER from Class to Class</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0fc2b3f</div>
-                                        <div class="message">Add isStandardLibrary field for nodes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#786a173</div>
-                                        <div class="message">First attempt to generate graphs for java methods</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06bf9f2</div>
-                                        <div class="message">Add createGraph method to PsiHelpers for graph generation
-
-Introduced the `createGraph` method in Java and Kotlin PsiHelpers to support graph generation. The method leverages the `Graph` object and integrates additional parameters to provide extensibility for future features. A placeholder implementation is added for Kotlin.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db0afcd</div>
-                                        <div class="message">Add JavaPsiExplorer to create a graph structure of UUT dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#14494c6</div>
-                                        <div class="message">Add Graph interface and KuzuGraph implementation for managing graph structures
-
-Introduced a Graph interface and implemented KuzuGraph using KuzuDB for handling nodes and edges. The implementation supports creating graph nodes and relationships with predefined types and enables storage in an in-memory or file-based database.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f1ac45</div>
-                                        <div class="message">Add Kuzu library dependency to build script
-
-Integrated the Kuzu library (version 0.8.2) into the project for graph database functionality.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2ca277</div>
-                                        <div class="message">[UI, #230] Implement undo delete test case functionality (#484)
-
-* Implement undo delete test case functionality
-
-* Fix ktlint issues</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#333fb02</div>
-                                        <div class="message">Adjustments for README to reflect recent changes (#478)
-
-- TestSpark now has three test-gen strategies
-- It is maintained by STR team
-- Add license hint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6b782f</div>
-                                        <div class="message">Enhance subclass handling by supporting KtLightClass (#488)
-
-Extend subclass processing logic to include `KtLightClass` alongside `KtUltraLightClass`. This ensures broader compatibility with Kotlin PSI classes during class inheritor searches.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c8a83a</div>
-                                        <div class="message">Filter out anonymous classes in subclass search (#491)
-
-Previously, the code included anonymous classes in the subclass search results. This change introduces a filter to exclude `PsiAnonymousClass` instances, ensuring only named classes are wrapped and returned. This improves the accuracy and relevance of the `searchSubclasses` method.</div>
+Changed the 'data/' entry in .gitignore to ensure it is no longer excluded from version control. This allows tracking of the 'data/' directory while adhering to project requirements.</div>
                                     </div>
                                 </div>
                             </section>
@@ -1721,7 +1546,7 @@ Previously, the code included anonymous classes in the subclass search results. 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 May 2025, 02:58:15 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 May 2025, 02:58:36 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
