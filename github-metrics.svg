@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1750" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1242" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.tag{color:#48428a}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,15 +30,15 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -108,7 +108,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            120 issue comments
+                            121 issue comments
                         </div>
                     </section>
                     <section>
@@ -333,11 +333,11 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 23 commits)</small>
+                    <small class="h-details">(computed from last 27 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 00:00</li>
+                        <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
                 </div>
@@ -381,7 +381,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.33
+                            Average per day at ~2.32
                         </div>
                     </section>
                 </div>
@@ -1369,6 +1369,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1386,6 +1391,35 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#492 [LLM] Refactor LLMWithFeedbackCycle and RequestManager</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by DanielRendox in <span class="repo">JetBrains-Research/TestSpark</span></div>
+                                    <div class="comment">
+                                        Hi, I don't know if it's in the scope of this PR, but the
+                                        <code>testsAssembler</code>
+                                        is not clean between 2 cycles with the LLM.
+To check that, you can add a breakpoint here 
+https://github.com/JetBrains-Research/TestSpark/blob/1f1179eaf515f3cb61804e5212aa03f1a926fc9d/src/main/kotlin/org/jetbrains/research/testspark/tools/llm/generation/JUnitTestsAssembler.kt#L55 
+Generate tests on a piece of code that requires at least 2 cycles and check the content of
+                                        <code>rawText</code>
+                                        when the breakpoint is triggered the second time. You'll see in the middle a line like:
+                                        <code class="language-multiline" xml:space="preserve">... code
+``````java
+<span class="token trimmed">(1 more line was trimmed)</span></code>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1396,222 +1430,10 @@
                                 <div class="details">
                                     <div>on branch <span class="code">vsantele/feat/context-ranking-pipeline</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b813822</div>
-                                        <div class="message">Sort method nodes by score instead of using droppedElbow.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">JetBrains-Research/TestSpark</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">vsantele/feat/context-ranking</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2058970</div>
-                                        <div class="message">Fix division by zero in outgoing degree calculation.
+                                        <div class="sha">#f499adb</div>
+                                        <div class="message">remove the pluginVerification task for the pipeline setup.
 
-Previously, division by zero could occur if a node's outgoing degree was zero. This fix adds a check to handle such cases by assigning a score of 0.0 when the degree is zero, ensuring stability in score calculations.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d588d7d</div>
-                                        <div class="message">Refactor method ranking with dropped elbow algorithm
-
-Introduce the `droppedElbow` method to improve node filtering during method ranking. This ensures better selection of high-scoring nodes by identifying significant score drops, enhancing overall ranking accuracy.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b527255</div>
-                                        <div class="message">Add `data` directory to .gitignore
-
-This prevents tracking of the `data` directory in Git. Useful for excluding generated or temporary files during development.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e01851</div>
-                                        <div class="message">Simplify graph query by removing unused variable.
-
-Removed the `totalNodes` variable from the query as it was unused. This improves clarity and reduces unnecessary computations in the ranking logic.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f467f8</div>
-                                        <div class="message">Add logging to track exploration of methods and classes
-
-Introduce log statements to provide better traceability during the exploration process. This helps to identify which methods or classes are being processed, improving debugging and monitoring.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d2f9a2</div>
-                                        <div class="message">update kuzu to 0.10.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#172392e</div>
-                                        <div class="message">Update Gradle Wrapper to version 8.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c6dc3d</div>
-                                        <div class="message">Prevent a method node without a class node attached.
-
-This can happen when exploreMethod is called from exploreStatement for a call relationship</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 147 commits in
-                                        <span class="repo">JetBrains-Research/TestSpark</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">vsantele/feat/context-ranking-pipeline</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7c9a884</div>
-                                        <div class="message">Filter out anonymous classes in subclass search (#491)
-
-Previously, the code included anonymous classes in the subclass search results. This change introduces a filter to exclude `PsiAnonymousClass` instances, ensuring only named classes are wrapped and returned. This improves the accuracy and relevance of the `searchSubclasses` method.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2058970</div>
-                                        <div class="message">Fix division by zero in outgoing degree calculation.
-
-Previously, division by zero could occur if a node's outgoing degree was zero. This fix adds a check to handle such cases by assigning a score of 0.0 when the degree is zero, ensuring stability in score calculations.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd3cdaf</div>
-                                        <div class="message">Add support for IDEA local path in runTestSparkHeadless.sh
-
-Included a new parameter `-PideaLocalPath` in the Gradle command to pass the IDEA local path variable. This ensures better flexibility and configuration for local development setups.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#436e794</div>
-                                        <div class="message">Add log message for local IDE usage in build script
-
-A debug println statement was added to indicate when the local IDE path is being used. This helps improve clarity during build configuration troubleshooting.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcec541</div>
-                                        <div class="message">Use project property for IDEA local path configuration
-
-Replaced the `IDEA_LOCAL_PATH` environment variable with the `ideaLocalPath` project property for specifying local IDEA paths. This change simplifies configuration by aligning with the existing property-based approach in the build script.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57fffa9</div>
-                                        <div class="message">Add support for local IDEA builds via IDEA_LOCAL_PATH
-
-Introduced a new `ideaLocalPath` variable to enable building against a local IDEA installation if the `IDEA_LOCAL_PATH` environment variable is set. The build process now checks for this variable and uses the local path if provided, falling back to creating a custom IDEA version otherwise.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a155f6</div>
-                                        <div class="message">add gradle clean before running the headless mode.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0eb41b5</div>
-                                        <div class="message">Add ProjectUnderTestFileCreator for enhanced artifact logging
-
-Introduce ProjectUnderTestFileCreator to centralize and standardize artifact management during test generation. It tracks prompts, errors, and responses, and logs details to specific output files, enhancing traceability and debugging capabilities.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b53af38</div>
-                                        <div class="message">[dev] add stacktrace option to gradle command</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36033ab</div>
-                                        <div class="message">comment recommanded()</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b833e5c</div>
-                                        <div class="message">Add doNotTrackState to task in build.gradle.kts
-
-The change ensures the task state is not tracked during execution, as it causes issue if the headless mode is run multiple times.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d588d7d</div>
-                                        <div class="message">Refactor method ranking with dropped elbow algorithm
-
-Introduce the `droppedElbow` method to improve node filtering during method ranking. This ensures better selection of high-scoring nodes by identifying significant score drops, enhancing overall ranking accuracy.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b527255</div>
-                                        <div class="message">Add `data` directory to .gitignore
-
-This prevents tracking of the `data` directory in Git. Useful for excluding generated or temporary files during development.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e01851</div>
-                                        <div class="message">Simplify graph query by removing unused variable.
-
-Removed the `totalNodes` variable from the query as it was unused. This improves clarity and reduces unnecessary computations in the ranking logic.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#385f5b6</div>
-                                        <div class="message">ktlint fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d048079</div>
-                                        <div class="message">Proper check for space credentials</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d390578</div>
-                                        <div class="message">ktlint fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1e95c9</div>
-                                        <div class="message">Fixed headless mode</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8907bc</div>
-                                        <div class="message">ktlint fix</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62b5fec</div>
-                                        <div class="message">Revert "Remove headless from development branch (#414)"
-
-This reverts commit c3a74648771524a6f52991d51856b4effe3e38ee.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">vsantele/tga-pipeline</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fix/testspark</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#258efd1</div>
-                                        <div class="message">Add Dockerfile and Makefile target for analysis task
-
-Introduce a new Dockerfile for the `tga-analysis` module, defining its build and runtime environment. Updated the Makefile to include a new target for building and tagging the analysis Docker image.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95e13c3</div>
-                                        <div class="message">Set working directory for runMetrics task in build script
-
-Ensure the runMetrics task executes with the project root directory as its working directory. This change provides consistent file path handling during task execution.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1c43b7</div>
-                                        <div class="message">Add 'tool' parameter to benchmark directory resolution
-
-Updated the directory resolution logic to include the 'tool' parameter when constructing the benchmark directory path. This ensures proper organization and avoids potential path issues.</div>
+This task causes a lot of random issues. It is useless in a headless usage because the headless part will never be shipped in the marketplace.</div>
                                     </div>
                                 </div>
                             </section>
@@ -1624,22 +1446,50 @@ Updated the directory resolution logic to include the 'tool' parameter when cons
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">vsantele/tga-pipeline</span>
+                                        <span class="repo">JetBrains-Research/TestSpark</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">fix/testspark</span></div>
+                                    <div>on branch <span class="code">vsantele/feat/context-ranking-pipeline</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5978a24</div>
-                                        <div class="message">Refactor CSV generation and improve benchmark property mapping
-
-Updated paths and header generation logic for CSV output. Introduced a more dynamic and maintainable approach to map benchmark properties using a predefined header list. Simplified error handling and streamlined code structure for better readability and functionality.</div>
+                                        <div class="sha">#4e6722b</div>
+                                        <div class="message">avoid exploration of a class from a method if it is already visited</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#710c548</div>
-                                        <div class="message">Add runMetrics task to build script
-
-Introduce a new JavaExec task, `runMetrics`, for executing the MetricsKt main class. This enables streamlined execution of metrics-related analysis directly from the build script.</div>
+                                        <div class="sha">#da41a21</div>
+                                        <div class="message">quickfix: keep the highest depth in visited maps</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      tag
+                                        <span class="code">vsantele/avg</span>
+                                        in
+                                        <span class="repo">JetBrains-Research/TestSpark</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      tag
+                                        <span class="code">vsantele/elbow</span>
+                                        in
+                                        <span class="repo">JetBrains-Research/TestSpark</span>
                                     </div>
                                 </div>
                             </section>
@@ -1667,7 +1517,7 @@ Introduce a new JavaExec task, `runMetrics`, for executing the MetricsKt main cl
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2025, 03:00:30 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2025, 02:58:09 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
